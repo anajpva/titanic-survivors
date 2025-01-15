@@ -4,7 +4,7 @@
 This project is an analysis and model training exercise based on the Kaggle dataset **"Titanic - Machine Learning from Disaster"**. The main objectives include data exploration, feature engineering, and training and evaluating machine learning models. The project is divided into two Jupyter notebooks:
 
 1. **Titanic**: Includes data preprocessing steps and the implementation of the **Deep Forest** machine learning model.
-2. **Titanic (Full Dataset)**: Extends the previous model by including cabin information analysis.
+2. **Titanic (With cabin)**: Extends the previous model by including cabin information analysis.
 
 ## Dataset Source
 The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/competitions/titanic).
